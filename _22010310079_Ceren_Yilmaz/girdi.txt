@@ -1,0 +1,9 @@
+prosesler:
+producer 2 p1 p18
+consumer 2 c22 c4
+olaylar:
+p1 3 "merhaba consumer"
+c4 4
+c4 5
+p18 6 "nasilsin consumer"
+c22 8
